@@ -11,5 +11,5 @@ x=$((a + b))
 echo "The sum is: $x"
 
 
-# End
+# End Program
 ~       
